@@ -2,7 +2,7 @@
 name: Device maintainership form
 about: Apply to be a Official maintainer at FusionOS
 title: New maintainer
-assignees: [SparXFusion, Ad1tyaS1ngh, SreekanthPalakurthi, sarthakroy2002]
+assignees: [SakthivelNadar, Ad1tyaS1ngh, sarthakroy2002, blurzyy]
 ---
 
 ## Device you want to apply for
